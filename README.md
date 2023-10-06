@@ -57,15 +57,16 @@ evaluation:
 - Mean Squared Error:  875453541.77 
 - R-squared scores:  0.87
 
-## Features Imortance
+### Features Imortance
 OverallQual is the most feature importance
 ![image](https://github.com/zanuura/Ames_House_Pricing_Prediction/assets/73764446/8e88aa2c-5c9d-41d6-afbf-df98f5177316)
 
 ![image](https://github.com/zanuura/Ames_House_Pricing_Prediction/assets/73764446/b044c213-3033-4aa5-b417-adf68ce6f4a6)
 
+#### OverallQual vs SalePrice
 ![image](https://github.com/zanuura/Ames_House_Pricing_Prediction/assets/73764446/d7278467-0a4c-45d0-8598-81e3813d3226)
 
-Modeling With Top 10 Features
+## Modeling With Top 10 Features
 ### Linear Regression
 evaluation: 
 - Mean Absolute Error: 23482.96 
