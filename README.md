@@ -41,21 +41,21 @@ dtypes: float64(3), int64(35), object(43)
 
 ### Linear Regression
 evaluation: 
-Mean Absolute Error: 4.689454779681475e+16 
-Mean Squared Error: 1.5268715044279774e+35 
-R-squared scores: 0,70
+- Mean Absolute Error: 4.689454779681475e+16 
+- Mean Squared Error: 1.5268715044279774e+35 
+- R-squared scores: 0,70
 
 ### Random Forest Regressor
 evaluation: 
-Mean Absolute Error:  17357.92
-Mean Squared Error:   943047692.15 
-R-squared scores:  0.86
+- Mean Absolute Error:  17357.92
+- Mean Squared Error:   943047692.15 
+- R-squared scores:  0.86
 
 ### XGBoost Regressor
 evaluation: 
-Mean Absolute Error:  17588.08 
-Mean Squared Error:  875453541.77 
-R-squared scores:  0.87
+- Mean Absolute Error:  17588.08 
+- Mean Squared Error:  875453541.77 
+- R-squared scores:  0.87
 
 ## Features Imortance
 OverallQual is the most feature importance
@@ -68,15 +68,15 @@ OverallQual is the most feature importance
 Modeling With Top 10 Features
 ### Linear Regression
 evaluation: 
-Mean Absolute Error: 23482.96 
-Mean Squared Error: 2025148129.29 
-R-squared scores: 0.7
+- Mean Absolute Error: 23482.96 
+- Mean Squared Error: 2025148129.29 
+- R-squared scores: 0.7
 
 ### Random Forest Regressor
 evaluation: 
-Mean Absolute Error: 18754.26 
-Mean Squared Error: 989850716.99 
-R-squared scores: 0.85
+- Mean Absolute Error: 18754.26 
+- Mean Squared Error: 989850716.99 
+- R-squared scores: 0.85
 
 
 
